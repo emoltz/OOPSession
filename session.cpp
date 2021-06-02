@@ -41,7 +41,7 @@ private:
 
 
 
-hero hero_super(500,645,80);
+//hero hero_super(500,645,80);
 
 public:
 	PersonNode(double init_height = 0, double init_age = 0, double init_weight = 0, PersonNode* init_next = nullptr) : height(init_height), age(init_age), weight(init_weight), next(init_next) {
